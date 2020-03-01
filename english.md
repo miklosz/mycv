@@ -23,13 +23,13 @@ Email: <jobs@borzyszkowski.org>  |  Phone: +48 698 083 477  |  [LinkedIn](https:
 * Wepback, NPM, Yarn
 * Node.js (both as runtime and backend)
 
-### TECHNICS / APPROACHES / OTHER
+### TECHNICS / APPROACHES 
 * Scrum
 * UX and UI design and optimization
 * Responsive Web Design
-* Worked in distributed, international teams (UK, Denmark, Sweden, Finland)
 
-### PRACTICAL EXPERIENCE
+### OTHER EXPERIENCE  & SKILLS
+* Worked in distributed, international teams (UK, Denmark, Sweden, Finland)
 * CMS & E-commerce: Wordpress, Prestashop, Magento and similar
 * "Oldschool" LAMP Stack (PHP + MySQL/SQLite)
 * Python + Django
@@ -53,7 +53,7 @@ Training frontend adepts during bootcamps (HTML, CSS, introduction to JS)
 * Coding *emails* and landing pages
 * Marketing automation tools implementation (Adobe Campaign, Marketo, HubSpot) - fullstack
 * Buliding microsites and apps in Node.js
-* Acting as **Frontend Competence Lead** to ensure high quailty of work is delivered by team
+* Acting as Frontend Competence Lead to ensure high quailty of work is delivered by team
 * Work in international team, also direct work at client-side (Sweden, Finland, Denmark)
 
 ------------------------
